@@ -1,5 +1,5 @@
 // Sabit kur (örnek)
-const rates = { USD: 28, EUR: 30, GBP: 35 };
+const rates = { USD: 41.46, EUR: 48.70, GBP: 55.77 };
 
 function convertCurrency() {
   const value = parseFloat(document.getElementById("currencyInput").value);
